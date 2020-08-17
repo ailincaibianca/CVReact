@@ -42,7 +42,7 @@ const experience = [
     id: 2,
     startYear: "FEB 2020 - ",
     endYear: "FEB 2020",
-    title: "Intership | Front-End",
+    title: "Internship | Front-End",
     institute: "Pentalog",
     location: "Iasi, Romania",
   },
